@@ -1,0 +1,1 @@
+/home/agent/exercism/rust/collatz-conjecture/target/debug/collatz_conjecture-bc55c919e4f7d123: /home/agent/exercism/rust/collatz-conjecture/src/lib.rs /home/agent/exercism/rust/collatz-conjecture/tests/collatz-conjecture.rs
